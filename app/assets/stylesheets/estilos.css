@@ -1,0 +1,10 @@
+.text-decoration {
+    text-decoration: none;
+    color: white;
+}
+
+.profile-img {
+    width: 200px;
+    height: 200px;
+    /* margin-left: 20%; */
+}
